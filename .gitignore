@@ -26,6 +26,8 @@ CMakeSettings.json
 bin/
 lib/
 x64/
+code/Release/
+code/Debug
 # QtCreator
 CMakeLists.txt.user
 
